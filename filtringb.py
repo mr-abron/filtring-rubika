@@ -1,20 +1,20 @@
 
 import os
 import sys
-#os.system("pip install --upgrade pip")
-#os.system("apt update -y ")
-#os.system("apt upgrade -y ")
-#os.system("pip install pyfiglet")
-#os.system("pip install random")
-#os.system("pip install time")
-#os.system("pip install webbrowser  ")
-#os.system("pip install  sys ")
-#os.system("pip install  colored ")
-#os.system("pip install colorama  ")
-#os.system("pip install colorama ")
-#os.system("pip install requests")
-#os.system("pip install flags ")
-#os.system("pip install system")
+os.system("pip install --upgrade pip")
+os.system("apt update -y ")
+os.system("apt upgrade -y ")
+os.system("pip install pyfiglet")
+os.system("pip install random")
+os.system("pip install time")
+os.system("pip install webbrowser  ")
+os.system("pip install  sys ")
+os.system("pip install  colored ")
+os.system("pip install colorama  ")
+os.system("pip install colorama ")
+os.system("pip install requests")
+os.system("pip install flags ")
+os.system("pip install system")
 
 
 import time

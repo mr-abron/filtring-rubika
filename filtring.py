@@ -1,4 +1,4 @@
-
+#mi aryan my love atena 
 import os
 import sys
 print(f"""\033[31m
@@ -64,8 +64,7 @@ import time
 import webbrowser                                               
 import sys
 from os import system, name
-from platform import node, system, release; Node, System, Release = node(), system(), release()                                                      
-import colored                                                  
+from platform import node, system, release; Node, System, Release = node(), system(), release()                                                                                                        
 import colorama                                                 
 import datetime
 import random
